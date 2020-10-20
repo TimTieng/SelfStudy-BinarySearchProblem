@@ -1,0 +1,50 @@
+//Mac/Home/Desktop/WhiteBoard_BinarySearch/bin/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.exe
+//Mac/Home/Desktop/WhiteBoard_BinarySearch/bin/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.deps.json
+//Mac/Home/Desktop/WhiteBoard_BinarySearch/bin/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.runtimeconfig.json
+//Mac/Home/Desktop/WhiteBoard_BinarySearch/bin/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.runtimeconfig.dev.json
+//Mac/Home/Desktop/WhiteBoard_BinarySearch/bin/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.dll
+//Mac/Home/Desktop/WhiteBoard_BinarySearch/bin/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.pdb
+//Mac/Home/Desktop/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.csprojAssemblyReference.cache
+//Mac/Home/Desktop/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.AssemblyInfoInputs.cache
+//Mac/Home/Desktop/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.AssemblyInfo.cs
+//Mac/Home/Desktop/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.csproj.CoreCompileInputs.cache
+//Mac/Home/Desktop/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.dll
+//Mac/Home/Desktop/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.pdb
+//Mac/Home/Desktop/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.genruntimeconfig.cache
+/Users/timtieng/Desktop/WhiteBoard_BinarySearch/bin/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.deps.json
+/Users/timtieng/Desktop/WhiteBoard_BinarySearch/bin/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.runtimeconfig.json
+/Users/timtieng/Desktop/WhiteBoard_BinarySearch/bin/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.runtimeconfig.dev.json
+/Users/timtieng/Desktop/WhiteBoard_BinarySearch/bin/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.dll
+/Users/timtieng/Desktop/WhiteBoard_BinarySearch/bin/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.pdb
+/Users/timtieng/Desktop/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.csprojAssemblyReference.cache
+/Users/timtieng/Desktop/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.AssemblyInfoInputs.cache
+/Users/timtieng/Desktop/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.AssemblyInfo.cs
+/Users/timtieng/Desktop/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.csproj.CoreCompileInputs.cache
+/Users/timtieng/Desktop/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.dll
+/Users/timtieng/Desktop/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.pdb
+/Users/timtieng/Desktop/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.genruntimeconfig.cache
+/Volumes/Tim's External HD/MSSA Program/Whiteboard/AlgoExpert/WhiteBoard_BinarySearch/bin/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.deps.json
+/Volumes/Tim's External HD/MSSA Program/Whiteboard/AlgoExpert/WhiteBoard_BinarySearch/bin/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.runtimeconfig.json
+/Volumes/Tim's External HD/MSSA Program/Whiteboard/AlgoExpert/WhiteBoard_BinarySearch/bin/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.runtimeconfig.dev.json
+/Volumes/Tim's External HD/MSSA Program/Whiteboard/AlgoExpert/WhiteBoard_BinarySearch/bin/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.dll
+/Volumes/Tim's External HD/MSSA Program/Whiteboard/AlgoExpert/WhiteBoard_BinarySearch/bin/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.pdb
+/Volumes/Tim's External HD/MSSA Program/Whiteboard/AlgoExpert/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.csprojAssemblyReference.cache
+/Volumes/Tim's External HD/MSSA Program/Whiteboard/AlgoExpert/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.AssemblyInfoInputs.cache
+/Volumes/Tim's External HD/MSSA Program/Whiteboard/AlgoExpert/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.AssemblyInfo.cs
+/Volumes/Tim's External HD/MSSA Program/Whiteboard/AlgoExpert/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.csproj.CoreCompileInputs.cache
+/Volumes/Tim's External HD/MSSA Program/Whiteboard/AlgoExpert/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.dll
+/Volumes/Tim's External HD/MSSA Program/Whiteboard/AlgoExpert/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.pdb
+/Volumes/Tim's External HD/MSSA Program/Whiteboard/AlgoExpert/WhiteBoard_BinarySearch/obj/Debug/netcoreapp3.1/WhiteBoard_BinarySearch.genruntimeconfig.cache
+W:\MSSA Program\Whiteboard\AlgoExpert\WhiteBoard_BinarySearch\bin\Debug\netcoreapp3.1\WhiteBoard_BinarySearch.exe
+W:\MSSA Program\Whiteboard\AlgoExpert\WhiteBoard_BinarySearch\bin\Debug\netcoreapp3.1\WhiteBoard_BinarySearch.deps.json
+W:\MSSA Program\Whiteboard\AlgoExpert\WhiteBoard_BinarySearch\bin\Debug\netcoreapp3.1\WhiteBoard_BinarySearch.runtimeconfig.json
+W:\MSSA Program\Whiteboard\AlgoExpert\WhiteBoard_BinarySearch\bin\Debug\netcoreapp3.1\WhiteBoard_BinarySearch.runtimeconfig.dev.json
+W:\MSSA Program\Whiteboard\AlgoExpert\WhiteBoard_BinarySearch\bin\Debug\netcoreapp3.1\WhiteBoard_BinarySearch.dll
+W:\MSSA Program\Whiteboard\AlgoExpert\WhiteBoard_BinarySearch\bin\Debug\netcoreapp3.1\WhiteBoard_BinarySearch.pdb
+W:\MSSA Program\Whiteboard\AlgoExpert\WhiteBoard_BinarySearch\obj\Debug\netcoreapp3.1\WhiteBoard_BinarySearch.csprojAssemblyReference.cache
+W:\MSSA Program\Whiteboard\AlgoExpert\WhiteBoard_BinarySearch\obj\Debug\netcoreapp3.1\WhiteBoard_BinarySearch.AssemblyInfoInputs.cache
+W:\MSSA Program\Whiteboard\AlgoExpert\WhiteBoard_BinarySearch\obj\Debug\netcoreapp3.1\WhiteBoard_BinarySearch.AssemblyInfo.cs
+W:\MSSA Program\Whiteboard\AlgoExpert\WhiteBoard_BinarySearch\obj\Debug\netcoreapp3.1\WhiteBoard_BinarySearch.csproj.CoreCompileInputs.cache
+W:\MSSA Program\Whiteboard\AlgoExpert\WhiteBoard_BinarySearch\obj\Debug\netcoreapp3.1\WhiteBoard_BinarySearch.dll
+W:\MSSA Program\Whiteboard\AlgoExpert\WhiteBoard_BinarySearch\obj\Debug\netcoreapp3.1\WhiteBoard_BinarySearch.pdb
+W:\MSSA Program\Whiteboard\AlgoExpert\WhiteBoard_BinarySearch\obj\Debug\netcoreapp3.1\WhiteBoard_BinarySearch.genruntimeconfig.cache
